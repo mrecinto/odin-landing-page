@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+nav {
+    height: 80px;
+    background: #1f2937;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+.nav-items{
+    display: flex;
+    align-items: center;
+}
+.nav-items .item {
+    width: 60px;
+    height: 25px;
+    color:#F9Faf8;
+    
+}
+
+.logo{
+    padding: 0 2rem;
+    font-weight: bold;
+    color:#F9Faf8;
+    font-size: x-large;
+}
+
+.header{
+    display: flex;
+    height: 250px;
+    background: #1f2937;
+    margin: 0;
+    padding: 0;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    
+}
+
+.sign-up-thingy{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 140px;
+    padding: 16px;
+    
+}
+
+.sign-up-items{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.sign-up-items div{
+    
+    color: #f9faf8;
+    display: flex;
+    border: 4px solid darkslategray;
+    height: 100px;
+    width: 100px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+
+
+/* .item {
+    width: 110px;
+    height: 60px;
+    /* border: 4px solid darkslategray;
+    background: skyblue;
+} */
+/* .nav-items .logo{
+    justify-content: space-between;
+} */
