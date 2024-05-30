@@ -1,3 +1,3 @@
 # odin-landing-page
 
-https://www.theodinproject.com/
+project from foundations course by the odin project : https://www.theodinproject.com/
