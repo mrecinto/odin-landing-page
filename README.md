@@ -1,5 +1,5 @@
 # odin-landing-page
 
-project from the foundations course by the odin project : https://www.theodinproject.com/
+part of The Odin Project Foundations course
 
 view it here: https://matiyus.github.io/odin-landing-page/
